@@ -4,7 +4,7 @@ function setup() {
   
   function draw() {
     background(220);
-    circle(250,250,150);
+    circle(250,250,150);//center circle
 
     text("Hindi:", 200, 100);//hindi harm word list
     text("अभद्र शब्द", 200, 120);
